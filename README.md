@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raviroy5566
+- 👋 Hi, I’m Ravi Kumar 
 - 👀 I’m interested in Software engineer 
 - 🌱 I’m currently learning DSA and MERN stack development 
 - 💞️ I’m looking to collaborate on ...
