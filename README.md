@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviroy5566&label=Profile%20views&color=0e75b6&style=flat" alt="raviroy5566" /> </p>
 
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **SQL**
 
 - 💬 Ask me about **MERN stack developer**
 
